@@ -1,16 +1,15 @@
 // ==UserScript==
 // @name         YesCoin Autoclicker
 // @version      1.0
-// @description  Automatic coin collector for YesCoin with play/stop functionality and auto-restart on non-zero energy
-// @author       Emin M @emin.mir
-// @run-at       document-idle
-// @icon         https://raw.githubusercontent.com/oliver134/Yescoin/main/yescoin.png
-// @downloadURL  https://github.com/oliver134/Yescoin/raw/main/yescoin-autoclicker.user.js
-// @updateURL    https://github.com/oliver134/Yescoin/raw/main/yescoin-autoclicker.user.js
-// @homepage     https://t.me/crypto_world_aze
-// @match        *://*.yescoin.gold/*
+// @description  Automatic coin collector for YesCoin with play/stop functionality and auto-restart
+// @match        https://telegram.blum.codes/*
 // @grant        none
-
+// @icon         https://raw.githubusercontent.com/oliver134/Yescoin/main/yescoin.png
+// @downloadURL  https://github.com/oliver134/Blum/raw/main/blum-autoclicker.user.js
+// @updateURL    https://github.com/oliver134/Blum/raw/main/blum-autoclicker.user.js
+// @author       Emin M @emin.mir
+// @homepage     https://t.me/crypto_world_aze
+// ==/UserScript==
 
 const translations = {
     EN: {
