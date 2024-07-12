@@ -2,7 +2,7 @@
 // @name         YesCoin Autoclicker
 // @version      1.0
 // @description  Automatic coin collector for YesCoin with play/stop functionality and auto-restart
-// @match        https://telegram.blum.codes/*
+// @match        *://*.yescoin.gold/*
 // @grant        none
 // @icon         https://raw.githubusercontent.com/oliver134/Yescoin/main/yescoin.png
 // @downloadURL  https://github.com/oliver134/Blum/raw/main/blum-autoclicker.user.js
